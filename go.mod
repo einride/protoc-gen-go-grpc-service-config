@@ -1,6 +1,6 @@
 module go.einride.tech/protoc-gen-go-grpc-service-config
 
-go 1.17
+go 1.18
 
 require (
 	go.buf.build/protocolbuffers/go/einride/grpc-service-config v1.2.1
